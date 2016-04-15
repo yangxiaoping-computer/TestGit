@@ -24,7 +24,7 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
     
-    NSLog(@"liujun");
+    NSLog(@"446575858585");
     
 }
 

@@ -10,6 +10,7 @@
 
 @interface ViewController ()
 
+
 @end
 
 @implementation ViewController
@@ -23,7 +24,9 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
     
-    NSLog(@"1111");
+
+    NSLog(@"1111222");
+
 }
 
 @end
